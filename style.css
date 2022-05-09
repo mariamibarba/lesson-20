@@ -10,7 +10,7 @@ button {
 
 
 .container {
-    max-width: 1200px;
+    max-width: 1260px;
     margin: 0 auto;
     padding: 10px;
 }
@@ -25,7 +25,7 @@ button {
 .newuser_btn{
   padding: 10px 7px;
 }
-
+/* tables */
 
 .table {
     width: 100%;
@@ -70,7 +70,7 @@ button {
 .modal_content{
     position: relative;
     max-width: 600px;
-    background-color: #fff;
+    background-color: rgba(215, 209, 209, 0.874);
     margin: 0 auto;
     padding: 50px 0 0;
 }
@@ -87,7 +87,7 @@ button {
 
 .modal_form{
     padding: 30px 20px 20px;
-    border-top: 1px solid #ccc
+    border-top: 1px solid rgb(125, 105, 105)
 }
 
 .form-field{
